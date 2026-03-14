@@ -7,7 +7,7 @@ import org.jooby.Results;
 import org.jooby.hbs.Hbs;
 import org.jooby.json.Jackson;
 import org.jooby.pac4j.Pac4j;
-import org.pac4j.core.context.Pac4jConstants;
+import org.pac4j.core.util.Pac4jConstants;
 import org.pac4j.core.credentials.UsernamePasswordCredentials;
 import org.pac4j.core.profile.CommonProfile;
 import org.pac4j.core.profile.definition.CommonProfileDefinition;
